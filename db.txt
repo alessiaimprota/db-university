@@ -19,8 +19,7 @@ WHERE `year`=1 AND `period`= 'I semestre';
 
 SELECT *
 FROM `exams`
-WHERE `date`= '2020-06-20' AND WHERE
-NON SONO RIUSCITA
+WHERE `date`= '2020-06-20' AND HOUR(`hour`)>14;
 
 SELECT *
 FROM `degrees`
