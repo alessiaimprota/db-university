@@ -31,3 +31,7 @@ FROM  `departments`
 SELECT *
 FROM `teachers`
 WHERE `phone` IS NULL;
+
+
+
+Il resto lo faccio in pausa pranzo che altrimenti mi sento di copiare dalla correzione 
