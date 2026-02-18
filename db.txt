@@ -9,7 +9,8 @@ WHERE `cfu`> 10;
 
 SELECT *
 FROM `students`
-WHERE YEAR(`date_of_birth`)>1996
+WHERE YEAR(`date_of_birth`)<1996
+AVEVO LETTO MALE ERANO PIù GRANDI SONO UNA POLLA
 
 
 SELECT *
