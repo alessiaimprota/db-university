@@ -20,3 +20,14 @@ SELECT *
 FROM `exams`
 WHERE `date`= '2020-06-20' AND WHERE
 NON SONO RIUSCITA
+
+SELECT *
+FROM `degrees`
+WHERE `level`='magistrale';
+
+SELECT COUNT(*)
+FROM  `departments`
+
+SELECT *
+FROM `teachers`
+WHERE `phone` IS NULL;
